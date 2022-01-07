@@ -18,7 +18,7 @@ git clone https://github.com/Icognito777/Cyborg-Nuker-v4/new/main?readme=1
 - type .nuke and see the wipe! check the ban list how fast it bans and wipes the srvr!
 ```
 
-- _**Why it's too fast**__
+- _**Why it's too fast**_
 ```fix
 We have combined threading, queue, requests, and discord.py API to make the commands run as fast as possible. If you are seeing rate limiting logged in your console while using this script, then that is simply because it runs too fast.```
 
