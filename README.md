@@ -22,7 +22,7 @@ git clone https://github.com/Icognito777/Cyborg-Nuker-v4/new/main?readme=1
 ```fix
 We have combined threading, queue, requests, and discord.py API to make the commands run as fast as possible. 
 If you are seeing rate limiting logged in your console while using this script, then that is simply because it runs too fast.
-- auto restarts script! Cyborg Nuker can simply wipe a 12k server in 2mins
+- auto restarts script! Cyborg Nuker can simply wipe a 12k server in just 2mins
 ```
 
 ## Author
