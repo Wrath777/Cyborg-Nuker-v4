@@ -11,7 +11,7 @@
 git clone https://github.com/Icognito777/Cyborg-Nuker-v4/new/main?readme=1
 ```
 - _**How to get started!**_
-```bash
+```fix
 - extract the Rar file!
 - open up the folder then open the dist folder! and edit default.json
 - then open the cyborgv4 schortcut ! and youre good to go!
