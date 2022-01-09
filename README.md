@@ -7,7 +7,7 @@
 > Follow the steps below to avoid errors
 
 - _**Clone the Repository**_
-```bash
+```fix
 git clone https://github.com/Icognito777/Cyborg-Nuker-v4/new/main?readme=1
 ```
 - _**How to get started!**_
